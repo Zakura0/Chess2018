@@ -1,0 +1,7 @@
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe.config
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.pdb
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.csprojAssemblyReference.cache
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.csproj.CoreCompileInputs.cache
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.exe
+c:\users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.pdb

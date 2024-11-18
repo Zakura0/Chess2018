@@ -1,0 +1,66 @@
+﻿<Window x:Class="SchachspielUI.SpielfeldUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SchachspielUI"
+        mc:Ignorable="d"
+        Title="Schach" Height="911" Background="LightBlue" ResizeMode="NoResize" Width="1128.125">
+    <Grid Margin="-2,0,2,0">
+
+
+
+        <UniformGrid x:Name="UniSpielfeld" Columns="8" Rows="8" Margin="81,162,399,78">
+
+        </UniformGrid>
+        <Rectangle StrokeThickness="10" Margin="71,152,389,68" Stroke="#FF0A2B63"/>
+        <Rectangle StrokeThickness="10" Margin="870,152,72,630" Stroke="#FF0A2B63"/>
+        <UniformGrid x:Name="UniFarbe" Columns="2" Rows="1" Margin="880,162,82,640" RenderTransformOrigin="0.566,0.488">
+            <Rectangle Fill="White"  />
+            <Rectangle Fill="Black"  />
+        </UniformGrid>
+
+        <Label x:Name="recSchwarz" Content="B" Margin="956,148,87,630" FontSize="65" Foreground="#FF0A2B63" HorizontalContentAlignment="Center" VerticalContentAlignment="Top"/>
+        <Label x:Name="recWeiß" Content="A" Margin="880,148,162,630" FontSize="65" Foreground="#FF0A2B63" HorizontalContentAlignment="Center" VerticalContentAlignment="Top"/>
+
+
+        <Label Foreground="#FF0A2B63" Content="1" Margin="28,714,1039,80" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="2" Margin="28,634,1039,160" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="3" Margin="28,554,1039,240" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="4" Margin="28,474,1039,320" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="5" Margin="28,393,1039,400" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="6" Margin="28,313,1039,480" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="7" Margin="28,234,1039,560" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="8" Margin="28,153,1039,640" FontSize="40"/>
+
+        <Label Foreground="#FF0A2B63" Content="1" Margin="731,714,336,80" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="2" Margin="731,634,336,160" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="3" Margin="731,554,336,240" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="4" Margin="731,474,336,320" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="5" Margin="731,393,336,400" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="6" Margin="731,313,336,480" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="7" Margin="731,234,336,560" FontSize="40"/>
+        <Label Foreground="#FF0A2B63" Content="8" Margin="731,153,336,640" FontSize="40"/>
+
+        <Label Content="a" Margin="98,792,962,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="b" Margin="177,792,883,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="c" Margin="260,792,800,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="d" Margin="338,792,722,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="e" Margin="419,792,641,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="f" Margin="503,792,540,6" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="g" Margin="574,792,490,-10" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="h" Margin="658,792,402,0" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="a" Margin="98, 89,962,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="b" Margin="177,89,883,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="c" Margin="260,89,800,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="d" Margin="338,89,722,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="e" Margin="419,89,641,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="f" Margin="503,89,540,709" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="g" Margin="579,89,490,693" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label Content="h" Margin="663,89,402,703" FontSize="40" Foreground="#FF0A2B63"/>
+        <Label x:Name="infoLabel" FontSize="14" Content="" Height="40" Margin="791,267,10,575" Width="321" FontWeight="Bold"/>
+        <Rectangle StrokeThickness="10" Margin="790,310,72,68" Stroke="#FF0A2B63"/>
+        <TextBox IsReadOnly="True" FontSize="35" x:Name="historie" VerticalScrollBarVisibility="Auto" Height="484" Margin="800,320,82,78" Width="240"/>
+        <Button Visibility="Hidden" Click="bb_Click" x:Name="bBeenden" Content="Beenden" HorizontalAlignment="Left" Margin="870,60,0,0" VerticalAlignment="Top" Width="180" Height="48" FontSize="24"/>
+    </Grid>
+</Window>

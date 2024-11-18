@@ -1,0 +1,21 @@
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csprojAssemblyReference.cache
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.exe
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.pdb
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe.config
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe
+C:\Users\skazemi\source\repos\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe.config
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csprojAssemblyReference.cache
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.exe
+C:\Users\skazemi\Desktop\VS Projekte\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.pdb
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe.config
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.exe
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\bin\Debug\Schachspiel_Idee.pdb
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csprojAssemblyReference.cache
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel.csproj.CoreCompileInputs.cache
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.exe
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\Schachspiel_Idee\Schachspiel_Idee\obj\Debug\Schachspiel_Idee.pdb

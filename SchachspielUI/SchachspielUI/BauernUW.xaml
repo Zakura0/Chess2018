@@ -1,0 +1,17 @@
+﻿<Window x:Class="SchachspielUI.BauernUW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SchachspielUI"
+        mc:Ignorable="d"
+        Title="Umwandlung" Height="300" Width="470" ResizeMode="NoResize">
+    <Grid>
+        <ToggleButton Click="Click_UW" x:Name="tb4" FontSize="55" Margin="340,80,42,109" />
+        <ToggleButton Click="Click_UW" x:Name="tb1" FontSize="55" Margin="40,80,342,109" />
+        <ToggleButton Click="Click_UW" x:Name="tb3" FontSize="55" Margin="241,80,141,109" />
+        <ToggleButton Click="Click_UW" x:Name="tb2" FontSize="55" Margin="141,80,241,109" />
+        <Label Content="Figur zur Umwandlung wählen:" HorizontalAlignment="Left" Margin="40,18,0,0" VerticalAlignment="Top" Height="50" Width="380" FontWeight="Bold" FontSize="18"/>
+        <Button Click="Click_UWB" Content="Bestätigen" Margin="141,196,141,29" FontSize="16"/>
+    </Grid>
+</Window>

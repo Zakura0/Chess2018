@@ -1,0 +1,34 @@
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.exe.config
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.exe
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.pdb
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csprojAssemblyReference.cache
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SpielfeldUI.g.cs
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\App.g.cs
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI_MarkupCompile.cache
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI_MarkupCompile.lref
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SpielfeldUI.baml
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.g.resources
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.Properties.Resources.resources
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csproj.GenerateResource.cache
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.exe
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.pdb
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\BauernUW.g.cs
+C:\Users\skazemi\Desktop\VS Projekte\SchachspielUI\SchachspielUI\obj\Debug\BauernUW.baml
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csprojAssemblyReference.cache
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\BauernUW.g.cs
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SpielfeldUI.g.cs
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\App.g.cs
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI_MarkupCompile.cache
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI_MarkupCompile.lref
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.exe
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.pdb
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.exe.config
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.exe
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\bin\Debug\SchachspielUI.pdb
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\BauernUW.baml
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SpielfeldUI.baml
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.g.resources
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.Properties.Resources.resources
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csproj.GenerateResource.cache
+S:\Softwaredevelopment\Ausbildungsprojekte\Visual Studio\Übungen - Aufgaben\SchachspielUI\SchachspielUI\obj\Debug\SchachspielUI.csproj.CoreCompileInputs.cache
